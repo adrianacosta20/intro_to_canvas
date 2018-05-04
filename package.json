@@ -1,0 +1,19 @@
+{
+  "name": "intro_to_canvas",
+  "version": "1.0.0",
+  "description": "intro to canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianacosta20/intro_to_canvas.git"
+  },
+  "author": "Adrian Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianacosta20/intro_to_canvas/issues"
+  },
+  "homepage": "https://github.com/adrianacosta20/intro_to_canvas#readme"
+}
